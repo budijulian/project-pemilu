@@ -1,4 +1,4 @@
 ###################
 Project Website Pemilu 2020
 ###################
-by budi julian
+Copyright Budi Julian 2021
